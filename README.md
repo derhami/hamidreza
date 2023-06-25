@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is **Hamedreza** . I am a website developer based in Iran. Here, you can find some of my open-source contributions.
+My name is **Hamidreza** . I am a website developer based in Iran. Here, you can find some of my open-source contributions.
 
 
 
